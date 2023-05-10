@@ -1,0 +1,1 @@
+import{c as e}from"./index-75e0cb1c.js";const s=({title:t})=>e("div",{className:"bg-[#232946]",children:e("h1",{className:"font-bold text-white text-center text-lg uppercase h-12 p-2",children:t})});export{s as H};

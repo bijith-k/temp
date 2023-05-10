@@ -1,0 +1,1 @@
+import{c as t,j as e}from"./index-75e0cb1c.js";const r=()=>t("div",{className:"bg-[#d4d8f0] h-72",children:e("h1",{className:"text-center font-extrabold text-[#232946] shadow-inner font-sans text-4xl md:pt-32 pt-20",children:["SUCCESS DOESN'T COME TO YOU",t("br",{})," YOU GO TO IT"]})});export{r as H};

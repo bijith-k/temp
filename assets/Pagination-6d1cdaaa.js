@@ -1,0 +1,1 @@
+import{c as t,B as l}from"./index-75e0cb1c.js";const o=({totalContents:s,contentsPerPage:a,setCurrentPage:i,currentPage:n})=>{let e=[];for(let r=1;r<=Math.ceil(s/a);r++)e.push(r);return t("div",{className:"flex justify-center my-4",children:e.map((r,c)=>t(l,{className:r==n?"bg-red-200 mr-1":"mr-1",onClick:()=>i(r),children:r},c))})};export{o as P};
